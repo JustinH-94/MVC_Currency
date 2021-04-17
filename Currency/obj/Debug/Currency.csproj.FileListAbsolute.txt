@@ -1,0 +1,12 @@
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\bin\Debug\Currency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\bin\Debug\Currency.pdb
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\obj\Debug\Currency.dll
+E:\Program Files\OOP II\Sprint3CurrencyTest\sprint-3-currency-test-first-JustinH-94\CurrencySprint2Stub\Currency\obj\Debug\Currency.pdb
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\bin\Debug\Currency.dll
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\bin\Debug\Currency.pdb
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\obj\Debug\Currency.csprojAssemblyReference.cache
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\obj\Debug\Currency.csproj.CoreCompileInputs.cache
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\obj\Debug\Currency.dll
+E:\Program Files\OOP II\International Currency\InternationalCurrency\Currency\obj\Debug\Currency.pdb
